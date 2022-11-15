@@ -3,7 +3,7 @@ Hi!, I'm Mikiyas Bekele Meaza!
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Mickybe/hero.gif?raw=true" style="max-width:200%;">
+  <img src="https://github.com/MickyBe/MickyBe/blob/main/hero.gif?raw=true" style="max-width:200%;">
 </p>
 <br>
 
