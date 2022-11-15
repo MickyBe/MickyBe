@@ -3,14 +3,14 @@ Hi!, I'm Mikiyas Bekele Meaza!
 </h1>
 
 <p align="center">
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
+  <img src="https://github.com/Mickybe/hero.gif?raw=true" style="max-width:200%;">
 </p>
 <br>
 
 <a href="https://github.com/Mickybe" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Esteban18911" target="_blank">
+<a href="https://twitter.com/MikiyasMeaza" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/mikiyas-bekele-meaza" target="_blank">
@@ -24,15 +24,15 @@ Hi!, I'm Mikiyas Bekele Meaza!
 </a>  
   
 ### I'm glad to see you here!  
-I am a Fullstack Developer with experience in projects related to web development (Python, JavaScript, Flask, Django, Node), low-level programming (C, Bash). Proficient in version control systems (Git), databases (SQL) and RESTful APIs. Lifelong learner, curious, team player and passionate about technology. Esteban is in the process of pursuing a degree in Systems Engineering with a strong emphasis on programming.
+I am a Fullstack Developer with experience in projects related to web development (Python, JavaScript, Flask, Django, Node), low-level programming (C, Bash). Proficient in version control systems (Git), databases (SQL) and RESTful APIs. Lifelong learner, curious, team player and passionate about technology.
 
 Developer with the ability to analyze and solve problems of high complexity and ambiguity. With skills to design and implement solutions according to the company context.
 
 - 🌱 I’m currently learning React and Django.
 - 😀 I like video game :video_game:, reading :books:, programming, :computer:, piano :musical_keyboard: and playing the guitar :guitar:. 
-<!-- - 📫 Read my blogs: [Esteban De La Hoz](https://medium.com/@estebandelahoz). -->
+<!-- - 📫 Read my blogs: [Mikiyas Bekele](link). -->
 - 💬 Ask me about anything an everything.
-<!-- - 🎯 Portfolio site: [Portfolio](https://estebandelahoz.netlify.app/) -->
+<!-- - 🎯 Portfolio site: [Portfolio](link) -->
 - ⚡ Fun fact: dream programming!
 
 <br/>  
