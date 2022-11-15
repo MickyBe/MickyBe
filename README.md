@@ -1,10 +1,6 @@
 <h1 align="center">
-Hi!, I'm Mikiyas Bekele Meaza!
+Hi!, I'm [Mikiyas Bekele Meaza](https://www.linkedin.com/in/mikiyas-bekele-meaza/) 👋
 </h1>
-
-<p align="center">
-  <img src="https://github.com/MickyBe/MickyBe/blob/main/hero.gif?raw=true" style="max-width:200%;">
-</p>
 <br>
 
 <a href="https://github.com/Mickybe" target="_blank">
@@ -25,8 +21,6 @@ Hi!, I'm Mikiyas Bekele Meaza!
   
 ### I'm glad to see you here!  
 I am a Fullstack Developer with experience in projects related to web development (Python, JavaScript, Flask, Django, Node), low-level programming (C, Bash). Proficient in version control systems (Git), databases (SQL) and RESTful APIs. Lifelong learner, curious, team player and passionate about technology.
-
-Developer with the ability to analyze and solve problems of high complexity and ambiguity. With skills to design and implement solutions according to the company context.
 
 - 🌱 I’m currently learning React and Django.
 - 😀 I like video game :video_game:, reading :books:, programming, :computer:, piano :musical_keyboard: and playing the guitar :guitar:. 
@@ -69,11 +63,11 @@ Developer with the ability to analyze and solve problems of high complexity and 
 
 
 <br/>
-- 👋 Hi, I’m Mikiyas Bekelae meaza
+<!-- - 👋 Hi, I’m Mikiyas Bekelae meaza
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... -->
 
 <!---
 MickyBe/MickyBe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
