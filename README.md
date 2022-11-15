@@ -1,6 +1,5 @@
-<h1 align="center">
-Hi!, I'm [Mikiyas Bekele Meaza](https://www.linkedin.com/in/mikiyas-bekele-meaza/) 👋
-</h1>
+
+## Hi!, I'm [Mikiyas Bekele Meaza](https://www.linkedin.com/in/mikiyas-bekele-meaza/) 👋
 <br>
 
 <a href="https://github.com/Mickybe" target="_blank">
@@ -22,12 +21,12 @@ Hi!, I'm [Mikiyas Bekele Meaza](https://www.linkedin.com/in/mikiyas-bekele-meaza
 ### I'm glad to see you here!  
 I am a Fullstack Developer with experience in projects related to web development (Python, JavaScript, Flask, Django, Node), low-level programming (C, Bash). Proficient in version control systems (Git), databases (SQL) and RESTful APIs. Lifelong learner, curious, team player and passionate about technology.
 
-- 🌱 I’m currently learning React and Django.
+- 🔭 I’m currently working as Full stack Developer.
 - 😀 I like video game :video_game:, reading :books:, programming, :computer:, piano :musical_keyboard: and playing the guitar :guitar:. 
-<!-- - 📫 Read my blogs: [Mikiyas Bekele](link). -->
 - 💬 Ask me about anything an everything.
 <!-- - 🎯 Portfolio site: [Portfolio](link) -->
 - ⚡ Fun fact: dream programming!
+- 📫 How to reach me bmikiyas@gmail.com
 
 <br/>  
 
@@ -63,11 +62,6 @@ I am a Fullstack Developer with experience in projects related to web developmen
 
 
 <br/>
-<!-- - 👋 Hi, I’m Mikiyas Bekelae meaza
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
 
 <!---
 MickyBe/MickyBe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
