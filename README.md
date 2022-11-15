@@ -3,7 +3,7 @@ Hi!, I'm Mikiyas Bekele Meaza!
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Esteban1891/portfolio-old/blob/main/images/github.gif?raw=true" style="max-width:200%;">
+  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
 </p>
 <br>
 
