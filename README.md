@@ -11,6 +11,10 @@
 <a href="https://www.linkedin.com/in/mikiyas-bekele-meaza" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
+<a href="https://www.mickybe.tech/" target="_blank" style="margin-bottom: 5px;">
+<img src=https://img.shields.io/badge/web-portfolio-blue alt=linkedin style="margin-bottom: 5px;" />
+</a>
   
 ### I'm glad to see you here!  
 I am a Fullstack Developer with experience in projects related to web development (Python, JavaScript, Flask, Django, Node), Mobile Development (React Native, flutter), low-level programming (C, C++, Bash). Proficient in version control systems (Git), databases (SQL) and RESTful APIs. Lifelong learner, curious, team player and passionate about technology.
