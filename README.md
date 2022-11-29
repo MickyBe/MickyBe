@@ -18,7 +18,7 @@ I am a Fullstack Developer with experience in projects related to web developmen
 - 🔭 I’m currently working as Full stack Developer.
 - 😀 I like video game :video_game:, reading :books:, programming, :computer:, piano :musical_keyboard: and playing soccer ⚽:. 
 - 💬 Ask me about anything an everything.
-- 🎯 Portfolio site: [Portfolio](link)
+- 🎯 Portfolio site: [Portfolio](https://www.mickybe.tech/)
 - ⚡ Fun fact: enjoy working out!
 - 📫 How to reach me bmikiyas@gmail.com
 
